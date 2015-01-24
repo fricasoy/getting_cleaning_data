@@ -1,7 +1,7 @@
-##Getting and Cleaning Data Project
+#Getting and Cleaning Data Project
 Repository for the code written for the course project of Getting and Cleaning Data
 
-#Project
+##Project
 
 1. Download and Unzip the files from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip to your computer in the location where you want to run the program
 
